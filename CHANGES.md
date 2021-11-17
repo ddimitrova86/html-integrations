@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Last release of this project is was 30th of September 2021.
 
+## [Unreleased]
+
+- Destroy events from CKEditor5Integration when CK5 is destroyed.
+
 ## 7.27.1 - 2021-09-30
 
 ### Fix overlapping issue on TinyMCE V5.
