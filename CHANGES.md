@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Last release of this project is was 30th of September 2021.
 
+## [Unreleased]
+
+- Added missing 'www' on wiris.net documentation links.
+
 ## 7.27.2 - 2021-11-26
 
 ## CKEditor5 filtering mechanism
